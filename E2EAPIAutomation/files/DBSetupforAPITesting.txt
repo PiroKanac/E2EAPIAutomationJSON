@@ -1,0 +1,5 @@
+ Setup database API project for Testing
+1.  Install NPM == Node.js
+2.  Install JSON Server    npm install -g json-server 
+3.   Create a db.json file (Anywhere on your machine) {   "posts": [     { "id": 1, "title": "json-server", "author": "typicode" }   ],   "comments": [     { "id": 1, "body": "some comment", "postId": 1 }   ],   "profile": { "name": "typicode" } }
+4. Start JSON Server     json-server --watch db.json

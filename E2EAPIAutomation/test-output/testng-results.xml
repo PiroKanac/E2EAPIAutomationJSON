@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="5796" started-at="2019-02-05T12:04:38Z" finished-at="2019-02-05T12:04:44Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="5796" started-at="2019-02-05T12:04:38Z" finished-at="2019-02-05T12:04:44Z">
+      <class name="automation.TC_001_E2EAutomation">
+        <test-method status="PASS" signature="tcase1()[pri:0, instance:automation.TC_001_E2EAutomation@523884b2]" name="tcase1" duration-ms="5725" started-at="2019-02-05T12:04:38Z" finished-at="2019-02-05T12:04:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tcase1 -->
+      </class> <!-- automation.TC_001_E2EAutomation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
